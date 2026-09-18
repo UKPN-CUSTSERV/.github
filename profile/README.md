@@ -1,5 +1,9 @@
 ## UK Power Networks - Customer Services
 
+### Directory
+
+- [Helpful Documents](https://github.com/UKPN-CUSTSERV/Helpful-Documents/main/README.md)
+- [SQL Script Hub](https://github.com/UKPN-CUSTSERV/SQL-Script-Hub/blob/main/README.md)
 <!--
 
 **Here are some ideas to get you started:**
