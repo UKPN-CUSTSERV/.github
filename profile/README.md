@@ -2,7 +2,7 @@
 
 ### Directory
 
-- [Helpful Documents](https://github.com/UKPN-CUSTSERV/Helpful-Documents/main/README.md)
+- [Helpful Documents](https://github.com/UKPN-CUSTSERV/Helpful-Documents/blob/main/README.md)
 - [SQL Script Hub](https://github.com/UKPN-CUSTSERV/SQL-Script-Hub/blob/main/README.md)
 <!--
 
