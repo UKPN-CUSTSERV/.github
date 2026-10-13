@@ -1,5 +1,7 @@
 ## UK Power Networks - Customer Services
 
+Welcome to the GitHub profile of UKPN's Customer Service developer team.
+
 ### Directory
 
 - [Helpful Documents](https://github.com/UKPN-CUSTSERV/Helpful-Documents/blob/main/README.md)
