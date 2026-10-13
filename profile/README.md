@@ -4,6 +4,7 @@
 
 - [Helpful Documents](https://github.com/UKPN-CUSTSERV/Helpful-Documents/blob/main/README.md)
 - [SQL Script Hub](https://github.com/UKPN-CUSTSERV/SQL-Script-Hub/blob/main/README.md)
+- [Power BI Report Hub](https://github.com/UKPN-CUSTSERV/Power-BI-Reporting)
 <!--
 
 **Here are some ideas to get you started:**
